@@ -1,0 +1,11 @@
+total 36
+drwxrwxr-x  6 pavel pavel 4096 led 18 23:34 .
+drwxrwxr-x 15 pavel pavel 4096 pro 17 21:34 ..
+-rw-rw-r--  1 pavel pavel  673 pro 12 21:44 build.sbt
+-rw-rw-r--  1 pavel pavel    0 led 18 23:34 files.txt
+drwxrwxr-x  4 pavel pavel 4096 led 18 22:37 .idea
+drwxrwxr-x  4 pavel pavel 4096 pro 12 20:59 project
+-rw-rw-r--  1 pavel pavel  101 pro 12 21:16 readme.txt
+drwxrwxr-x  4 pavel pavel 4096 pro 12 20:45 src
+drwxrwxr-x  4 pavel pavel 4096 pro 12 20:46 target
+-rw-rw-r--  1 pavel pavel  230 pro 12 20:53 twitterCredentials.txt

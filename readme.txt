@@ -1,0 +1,1 @@
+spark-submit --master "local[*]" --class PrintTweets target/scala-2.10/printTweets-assembly-0.1.0.jar
